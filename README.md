@@ -77,3 +77,7 @@ Add 4.7 kOhm pull-ups to 3V3 on SIOC and SIOD if your camera module has none.
 ## Status
 
 Written for Basys 3; adjust the pin constraints for other boards.
+
+
+<img width="2890" height="2575" alt="IMG_20261111_024012" src="https://github.com/user-attachments/assets/9453a625-f26b-4861-80a6-86d668b15ee2" />
+<img width="3472" height="4624" alt="IMG_20261111_014545" src="https://github.com/user-attachments/assets/aa079dae-79f8-4b0b-a6fb-283e52a3146b" />
