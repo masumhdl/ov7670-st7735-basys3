@@ -1,0 +1,25 @@
+# Vivado generated files
+vivado_project/
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.srcs/
+.Xil/
+*.jou
+*.log
+*.str
+*.backup.jou
+*.backup.log
+webtalk*
+hs_err_pid*
+*.bit
+*.dcp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
